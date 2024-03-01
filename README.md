@@ -12,4 +12,4 @@ Storage: Stored data on Amazon S3.
 
 Tools: Leveraged Python, Apache Airflow, AWS EC2, and Amazon S3.
 
-Extracted, Transformed and Loaded Twitter data using npscrapper library for extracting data from X API.
+Extracted, Transformed and Loaded Twitter data using tweepy library for extracting data from X API.
